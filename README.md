@@ -1,2 +1,2 @@
 # machine-learning
-Машинное обучение (Курсы VK Education и самостоятельно)
+Машинное обучение (VK Education)
